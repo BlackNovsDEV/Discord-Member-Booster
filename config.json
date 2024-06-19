@@ -4,9 +4,9 @@
     "threads": 69,
     "proxy_scraper": "y",
 
-    "online_tokens": "y",
+    "online_tokens": "https://discord.com/api/webhooks/1253053594207518790/vsI56RVj7qFW0aoBUJMyXNY5QjZ5iqlYp5Be3RocLoWUXjzNnGzZA4KC9MQ6yqe7UpKa",
 
     "join_voice": "n",
-    "channel_id": "",
-    "server_id": ""
+    "channel_id": "1089728231743176778",
+    "server_id": "MRXCnYMWzJ"
 }
